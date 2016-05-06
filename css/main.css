@@ -13,15 +13,26 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-header {
+section.pro {
   margin-top: 160px;
 }
 
-header img {
+section.pro img {
   width: 100px;
 }
 
-header .name {
+section.pro img.photo {
+  border-radius: 100%;
+}
+
+section.pro .img-separator {
+  display: inline-block;
+  margin: 20px;
+  height: 50px;
+  border-right: 1px solid #1793D1;
+}
+
+section.pro .name {
   display: block;
   font-weight: 400;
   text-transform: uppercase;
@@ -29,11 +40,11 @@ header .name {
   letter-spacing: 2px;
 }
 
-header .text {
+section.pro .text {
   display: block;
   text-transform: uppercase;
   font-size: .7rem;
-  letter-spacing: 8.6px;
+  letter-spacing: 7.6px;
   opacity: .7;
   color: #1793D1;
 }
@@ -44,9 +55,3 @@ header .text {
 .logo-grey {
   color: #4D4D4D;
 }
-
-.flex { flex: 1; display: flex; }
-.flex.center { align-items: center; justify-content: center; }
-.flex.column { flex-direction: column; }
-.flex.around { justify-content: space-around; }
-.flex.between { justify-content: space-between; }
