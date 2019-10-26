@@ -11,15 +11,20 @@ I'm Valentin Brajon, a Developer and Entrepreneur from Paris who likes minimalis
 
 ## Projects
 - [stimcraft.com](https://stimcraft.com/)
-- [music-viz](https://vbrajon.github.io/music-viz/)
+- [sound.link](https://sound.link/)
 - [memory.limited](https://memory.limited/)
 
 ## Websites
-- [bio-d-or.com](bio-d-or.com)
-- [hanasebel.com](hanasebel.com)
-- [vbrajon.com](vbrajon.com)
+- [bio-d-or.com](https://bio-d-or.com)
+- [hanasebel.com](https://hanasebel.com)
+- [vbrajon.com](https://vbrajon.com)
 
 ## Articles
 - coming next
 
 [Github](https://github.com/vbrajon) | [Twitter](https://twitter.com/vbrajon)
+
+<details>
+  <summary></summary>
+  <style>h1:first-child, details:last-child { display: none; }</style>
+</details>
