@@ -1,11 +1,11 @@
 # <img src="images/varch-logo.svg" width="100" />
 
-I'm Valentin Brajon, a Developer and Entrepreneur from Paris who likes minimalism, sharp tools and animations. I work in Javascript, experiment in Rust. Formerly architect at [Theodo](https://theodo.com), founder of [100m.io](https://100m.io), now [Neoxam](https://neoxam.com).
+I’m Valentin Brajon, a Developer and Entrepreneur from France who likes minimalism, sharp tools, web technologies and design. I work with Typescript, Tailwind and Vue. Formerly architect at [Theodo](https://theodo.com), founder of [100m.io](https://100m.io), now [Neoxam](https://neoxam.com).
 
 ## Projects
 - [stimcraft.com](https://stimcraft.com/)
 - [sound.link](https://sound.link/)
-- [memory.limited](https://memory.limited/) - [Chrome](https://chrome.google.com/webstore/detail/memorylimited/pfhicfflehfdoocipahhhndmmcbepkmj)
+- [memory.limited](https://github.com/vbrajon/memory.limited) - [on Chrome](https://chrome.google.com/webstore/detail/memorylimited/pfhicfflehfdoocipahhhndmmcbepkmj)
 
 ## Websites
 - [bio-d-or.com](https://bio-d-or.com)
